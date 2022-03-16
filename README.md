@@ -4,7 +4,7 @@ Hello! This is a collection of projects I am working on in order to build my ski
 
 # What are you working on now?
 
-Inspired by #GamesNightViz, I am looking at Jeopardy! data to determine how often people "make it a true daily double" - and how successful they are! I'm excited about this project, because it's giving me practice with several new-to-me skills, such as:
+Inspired by [#GamesNightViz](https://github.com/wjsutton/games_night_viz), I am looking at [Jeopardy! data](https://www.j-archive.com/) to determine how often people "make it a true daily double" - and how successful they are! I'm excited about this project, because it's giving me practice with several new-to-me skills, such as:
 - Web scraping
 - Processing unstructured data
 - More Tableau!
