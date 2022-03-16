@@ -14,3 +14,5 @@ Some questions rolling around in my head related to this topic:
 - Are players more or less successful if they risk it all?
 - Are players more successful if they make it a true daily double when the question appears in the top half of the board?
 - Are players more inclined to risk it all if they are behind?
+
+This is currently a work in progress and feedback is always welcomed!
