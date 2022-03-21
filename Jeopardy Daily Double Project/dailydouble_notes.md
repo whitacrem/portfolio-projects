@@ -24,3 +24,8 @@ Goal: I want to scrape the score data from every game in the J.Archive website a
 - Changed the "find" to a "find_all" to catch all the tables
 - This was catching the final jeopardy tables, which do not have question numbers or daily doubles, so changed the condition in the loop that was checking for more than three players to just check to make sure the data in the row = 5 elements (two question number columns and the scores of three players)
 - Added a "round" column to distinguish between jeopardy and double jeopardy, will merge all to make unique IDs for each question
+
+## March 21
+- Updated and ran second scraper to collect just daily doubles, collecting game id and round number in individual columns so I can later combine with question number to give each question its own unique key that matches the original scores keys
+- Realized I needed to zip my lists together before I could turn them into a dataframe
+- This one runs much faster - because it's significantly less data or because I'm creating lists not adding rows to a dataframe or both?
